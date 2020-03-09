@@ -9,6 +9,14 @@
   color: rgb(252, 120, 120);
 }
 
+.fa-github {
+  color: rgb(5, 0, 0);
+}
+
+.fa-whatsapp {
+  color: rgb(0, 207, 62);
+}
+
 body {
   font-family: 'Oswald', sans-serif !important;
 }
